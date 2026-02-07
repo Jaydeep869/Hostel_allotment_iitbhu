@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Environment variables (NEVER commit real keys)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
